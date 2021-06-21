@@ -1,1 +1,1 @@
-# arango-test
+# arangodb-test
